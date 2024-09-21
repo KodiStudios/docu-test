@@ -11,12 +11,12 @@ const config: Config = {
   url: 'https://KodiStudios.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/your-cool-site/',
+  baseUrl: '/docu-test/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'KodiStudios', // Usually your GitHub org/user name.
-  projectName: 'your-cool-site', // Usually your repo name.
+  projectName: 'docu-test', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
